@@ -1,0 +1,5 @@
+Algumas ideias futuras:
+ - para este projeto são adicionar uma API que mostre os resultados vencedoras dos sorteios da Mega Sena
+ - Criar um histórico com os últimos números sorteados ao clicar no botão "sortear"
+ - Ter a opção de sortear apenas um número por vez
+ - Tornar os circulos onde estão os valores mais tridimensionais
