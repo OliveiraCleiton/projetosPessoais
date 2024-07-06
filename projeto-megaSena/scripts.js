@@ -20,7 +20,8 @@ frm.addEventListener("submit", (e) => {
             listaNum.push(numSorteado)
         }
     }
-    console.log(listaNum)
+   listaNum.sort( (a, b) => a - b)
+    
 
     num1.innerText = listaNum[0]
     num2.innerText = listaNum[1]
